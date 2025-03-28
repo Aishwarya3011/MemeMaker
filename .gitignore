@@ -1,0 +1,29 @@
+###### frontend
+
+# dependencies
+/meme-maker/node_modules
+/meme-maker/.pnp
+/meme-maker/.pnp.js
+
+# testing
+/meme-maker/coverage
+
+# production
+/meme-maker/build
+
+# misc
+/meme-maker/.DS_Store
+/meme-maker/.env.local
+/meme-maker/.env.development.local
+/meme-maker/.env.test.local
+/meme-maker/.env.production.local
+
+/meme-maker/npm-debug.log*
+/meme-maker/yarn-debug.log*
+/meme-maker/yarn-error.log*
+
+###### backend
+
+/meme-maker-backend/.env
+/meme-maker-backend/env
+/meme-maker-backend/__pycache__
